@@ -1,0 +1,7 @@
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\bin\Debug\MyFirstMSTestProjectTest.dll
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\bin\Debug\MyFirstMSTestProjectTest.pdb
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\obj\Debug\MyFirstMSTestProjectTest.csprojResolveAssemblyReference.cache
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\obj\Debug\MyFirstMSTestProjectTest.dll
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\obj\Debug\MyFirstMSTestProjectTest.pdb
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\bin\Debug\MyFirstMSTestProject.exe
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProjectTest\bin\Debug\MyFirstMSTestProject.pdb

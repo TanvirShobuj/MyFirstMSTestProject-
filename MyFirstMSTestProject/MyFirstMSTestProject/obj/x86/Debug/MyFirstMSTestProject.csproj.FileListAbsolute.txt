@@ -1,0 +1,7 @@
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\bin\Debug\MyFirstMSTestProject.exe
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\bin\Debug\MyFirstMSTestProject.pdb
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\obj\x86\Debug\MyFirstMSTestProject.frmCalculateAmount.resources
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\obj\x86\Debug\MyFirstMSTestProject.Properties.Resources.resources
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\obj\x86\Debug\MyFirstMSTestProject.csproj.GenerateResource.Cache
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\obj\x86\Debug\MyFirstMSTestProject.exe
+D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\obj\x86\Debug\MyFirstMSTestProject.pdb

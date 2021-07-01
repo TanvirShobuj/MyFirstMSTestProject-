@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="216e7baf-c4b4-4eac-859e-2183d24964bb" name="Sara@DESKTOP-ER49AAO 2021-07-02 01:54:45" runUser="DESKTOP-ER49AAO\Sara" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e91ace34-d5a8-4229-bbb8-ea2e389e91a6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Sara_DESKTOP-ER49AAO 2021-07-02 01_54_45">
+      <DeploymentItem filename="D:\MSTEST\MyFirstMSTestProject\MyFirstMSTestProject\bin\Debug\MyFirstMSTestProject.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2021-07-02T01:54:45.6799003+06:00" queuing="2021-07-02T01:54:45.6968971+06:00" start="2021-07-02T01:54:45.7018978+06:00" finish="2021-07-02T01:54:45.8988333+06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateAmountAfterDiscountTest" storage="d:\mstest\myfirstmstestproject\myfirstmstestprojecttest\bin\debug\myfirstmstestprojecttest.dll" id="0fdf7c9b-e356-45ec-d219-413f1f2500de">
+      <Execution id="d9cf490a-e921-4eb8-b326-41c8e5dadfd6" />
+      <TestMethod codeBase="D:/MSTEST/MyFirstMSTestProject/MyFirstMSTestProjectTest/bin/Debug/MyFirstMSTestProjectTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstMSTestProjectTest.CalculateAmountTest, MyFirstMSTestProjectTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateAmountAfterDiscountTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0fdf7c9b-e356-45ec-d219-413f1f2500de" executionId="d9cf490a-e921-4eb8-b326-41c8e5dadfd6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d9cf490a-e921-4eb8-b326-41c8e5dadfd6" testId="0fdf7c9b-e356-45ec-d219-413f1f2500de" testName="CalculateAmountAfterDiscountTest" computerName="DESKTOP-ER49AAO" duration="00:00:00.0085182" startTime="2021-07-02T01:54:45.7038950+06:00" endTime="2021-07-02T01:54:45.8878369+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d9cf490a-e921-4eb8-b326-41c8e5dadfd6">
+    </UnitTestResult>
+  </Results>
+</TestRun>
